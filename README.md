@@ -1,2 +1,2 @@
-# my--demo
+# praju--demo
 This is my first git repository
